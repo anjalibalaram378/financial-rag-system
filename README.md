@@ -501,14 +501,16 @@ financial-rag-system/
 
 ## 📝 Progress Log
 
-### Week 3 (Dec 30 - Jan 5, 2025):
-- ✅ Day 14 (Dec 30): PDF ingestion + SEC scraper + chunking
-- ✅ Day 15 (Dec 31): ChromaDB + embeddings + basic retrieval (light - NYE)
-- ✅ Day 16 (Jan 1): Hybrid search (BM25 + semantic) (light - New Year)
-- ✅ Day 17 (Jan 2): Redis caching + Cohere re-ranking
-- ✅ Day 18 (Jan 3): Qdrant & Pinecone + benchmarking + FastAPI
-- ✅ Day 19 (Jan 4): Streamlit UI + Docker + Tests
-- ✅ Day 20 (Jan 5): CI/CD + Monitoring + Deploy + Docs + Video
+### Week 3 (Jan 5-11, 2026):
+- ⬜ Day 13 (Jan 5 Sun): PDF ingestion + SEC scraper + chunking + table extraction | 10h
+- ⬜ Day 14 (Jan 6 Mon): ChromaDB + embeddings + basic retrieval | 10h
+- ⬜ Day 15 (Jan 7 Tue): Hybrid search (BM25 + semantic) + vector DB benchmark | 10h
+- ⬜ Day 16 (Jan 8 Wed): Redis caching + Cohere re-ranking | 10h
+- ⬜ Day 17 (Jan 9 Thu): Qdrant & Pinecone integration + multi-LLM comparison | 10h
+- ⬜ Day 18 (Jan 10 Fri): Streamlit UI + FastAPI + Docker + Tests | 10h
+- ⬜ Day 19 (Jan 11 Sat): CI/CD + Monitoring + Deploy + Docs + Video + Blog #1 | 10h
+
+**Total**: 70 hours | **PROJECT 2 DEPLOYED! Blog #1 published!**
 
 ---
 
@@ -535,7 +537,7 @@ financial-rag-system/
 MIT
 
 ## 👤 Author
-Built during 34-day intensive ML/AI job preparation (Dec 2025 - Jan 2026)
+Built during 36-day realistic ML/AI job preparation with life balance (Dec 2025 - Jan 2026)
 
 **Connect:** [LinkedIn](#) | [GitHub](#) | [Blog](#)
 
